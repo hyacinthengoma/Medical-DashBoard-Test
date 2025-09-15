@@ -1,3 +1,9 @@
+<img width="1916" height="950" alt="image" src="https://github.com/user-attachments/assets/c6ab0b92-4ec2-41bb-8334-ecc206599824" />
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/1963bab1-0377-448c-9536-911761b35bdc" />
+<img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/46ff873c-16c2-4400-9770-59969bff139d" />
+
+
+
 # Patient Management App
 
 ## Description
