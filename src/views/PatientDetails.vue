@@ -64,8 +64,8 @@
 
         <!-- Boutons -->
         <div class="flex gap-2 mt-4">
-          <Button type="submit">💾 Enregistrer</Button>
-          <Button type="button" variant="outline" @click="cancelEdit">❌ Annuler</Button>
+          <Button type="submit">Enregistrer</Button>
+          <Button type="button" variant="outline" @click="cancelEdit">Annuler</Button>
         </div>
       </form>
     </Card>
